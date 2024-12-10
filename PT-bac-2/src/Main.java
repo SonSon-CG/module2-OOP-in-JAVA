@@ -17,7 +17,6 @@ public class Main {
         }else{
             System.out.println("phuong trinh co 2 nghiem"+ q.getRoot2()+ "va"+ q.getRoot1());
         }
-
     }
 }
 
